@@ -8,7 +8,7 @@ Thanks to Gravity Master for enabling this.
 
 I firstly used Gravity Master's plugin but found it not suitable for my needs. So I stripped out everything I didn't need and rewrote other bits.
 
-The plugin's logic has been flipped. The plugin did apply itself to all categories except categories you choose to exclude. In my version is only applies itself to categories you pick.
+The plugin's logic has been flipped. The plugin did apply itself to all categories except categories you choose to exclude. In my version it only applies itself to categories you pick.
 
 The cron class isn't needed (and commented out).
 
